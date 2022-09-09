@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Project Title
+
+Amazon Recreated Using React
+
+# Live Link:
 
 Live link: https://teke-8405f.web.app/
+
+# Introduction
+
+This project shows how the current Amazon's website can be recreated using React and bootstrap. 
+
+# Technology
+
+React.js, Bootstrap
+
+# Install dependencies
+npm install
+
+# Author
+Tekalign Tesfaye
+
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
